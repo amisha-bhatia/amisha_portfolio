@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amisha_portfolio/static/css/main.c9a84744.css",
+    "main.js": "/amisha_portfolio/static/js/main.b1f55a87.js",
+    "index.html": "/amisha_portfolio/index.html",
+    "main.c9a84744.css.map": "/amisha_portfolio/static/css/main.c9a84744.css.map",
+    "main.b1f55a87.js.map": "/amisha_portfolio/static/js/main.b1f55a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a84744.css",
+    "static/js/main.b1f55a87.js"
+  ]
+}

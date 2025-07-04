@@ -1,0 +1,37 @@
+.hero {
+    min-height: 100vh;
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #ccc;
+}
+
+.cta {
+    margin-top: 1.5rem;
+    padding: 0.7rem 1.5rem;
+    background-color: white;
+    color: #1f1f1f;
+    border: none;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.cta:hover {
+    background-color: #eee;
+}
